@@ -13,4 +13,5 @@ This is a simple and interactive Trivia App built using HTML, CSS, and JavaScrip
 5. Click Play Again to restart the game with new parameters!
 
 ##
-![image](https://github.com/user-attachments/assets/df215238-68f8-4285-9bb3-15433b4f794c)
+![image](https://github.com/user-attachments/assets/0b902089-e522-457d-bfa4-b6eded3c5e3f)
+
